@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/cn/itcast/dao/UserDao.java=UTF-8
+encoding//src/cn/itcast/dao/impl=UTF-8
+encoding//src/cn/itcast/domain/Customer.java=UTF-8
+encoding//src/cn/itcast/domain/LinkMan.java=UTF-8
+encoding//src/cn/itcast/domain/SaleVisit.java=UTF-8
+encoding//src/cn/itcast/domain/User.java=UTF-8
+encoding//src/cn/itcast/service/UserService.java=UTF-8
+encoding//src/cn/itcast/service/impl/CustomerServiceImpl.java=UTF-8
+encoding//src/cn/itcast/service/impl/UserServiceImpl.java=UTF-8
+encoding//src/cn/itcast/utils/MD5Utils.java=UTF-8
+encoding//src/cn/itcast/web/action/UserAction.java=UTF-8
+encoding//src/hibernate.cfg.xml.bak=UTF-8
